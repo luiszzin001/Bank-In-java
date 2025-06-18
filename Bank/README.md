@@ -66,7 +66,7 @@ The logic is handled by two main classes:
 
 ## Author
 
-- [Seu Nome Aqui]
+- [Luis Fernando]
 
 ---
 ✨ Enjoy your banking experience! ✨
