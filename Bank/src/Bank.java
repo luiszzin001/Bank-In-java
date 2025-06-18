@@ -1,6 +1,6 @@
 public class Bank {
     private String name;
-    private double minimalSalary = 1850.00; // Example minimal salary
+    private double minimalSalary = 1850.00; // minimal salary
     private double balance = 0.0;
     private boolean minimalSalaryWithdrawn = false;
 
